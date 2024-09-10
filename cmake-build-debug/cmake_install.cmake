@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Valérian/Desktop/Bureau/ENSEA/3A/ESE/Module_0/Rappel_C
+# Install script for directory: C:/Rappel_C
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Valérian/Desktop/Bureau/ENSEA/3A/ESE/Module_0/Rappel_C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Rappel_C/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

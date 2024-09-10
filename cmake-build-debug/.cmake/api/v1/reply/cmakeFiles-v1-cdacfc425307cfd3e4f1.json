@@ -429,8 +429,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/Val\u00e9rian/Desktop/Bureau/ENSEA/3A/ESE/Module_0/Rappel_C/cmake-build-debug",
-		"source" : "C:/Users/Val\u00e9rian/Desktop/Bureau/ENSEA/3A/ESE/Module_0/Rappel_C"
+		"build" : "C:/Rappel_C/cmake-build-debug",
+		"source" : "C:/Rappel_C"
 	},
 	"version" : 
 	{
